@@ -1,4 +1,4 @@
-//Auto build in jenkins - test 1
+//Auto build in jenkins - test 2
 //test 1
 
 package helloWorld2;
